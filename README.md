@@ -46,7 +46,9 @@ It also includes a 15-day sales forecast to support business decision-making.
 
 ##  Dashboard Preview
 
-(Add screenshots below)
+![Dashboard Page 1](dashboard_page1.png)
+
+![Dashboard Page 2](dashboard_page2.png)
 
 ---
 
